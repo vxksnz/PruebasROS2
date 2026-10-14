@@ -1,0 +1,11 @@
+{
+  // Este workspace se compila con colcon (./build.sh), no con la extensión CMake Tools
+  "cmake.configureOnOpen": false,
+  "cmake.ignoreCMakeListsMissing": true,
+  "C_Cpp.default.configurationProvider": null,
+  "files.exclude": {
+    "build": true,
+    "install": true,
+    "log": true
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "name": "ROS 2 Lyrical",
+      "compileCommands": "${workspaceFolder}/build/compile_commands.json",
+      "compilerPath": "/usr/bin/g++",
+      "intelliSenseMode": "linux-gcc-x64",
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "includePath": [
+        "${workspaceFolder}/src/**",
+        "/opt/ros/lyrical/include/**"
+      ]
+    }
+  ],
+  "version": 4
+}
